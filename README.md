@@ -1,8 +1,8 @@
 # CalforniaHouse-RFR-
 # 🏡 California Housing Value Predictor
+<img width="1919" height="788" alt="Screenshot 2026-09-24 171359" src="https://github.com/user-attachments/assets/b42314e8-ceee-43ec-9ad0-be7fda93f6a9" />
+<img width="1919" height="706" alt="Screenshot 2026-09-24 171448" src="https://github.com/user-attachments/assets/3e8c1257-e944-4476-9426-44ef29a81daa" />
 
-<img width="985" height="600" alt="WhatsApp Image 2026-09-24 at 5 07 21 PM (1)" src="https://github.com/user-attachments/assets/88e9aec9-2847-4b72-b2a7-1e1a41c939bf" />
-<img width="969" height="532" alt="WhatsApp Image 2026-09-24 at 5 08 02 PM (1)" src="https://github.com/user-attachments/assets/67dccd1f-69f6-404f-a803-5d37393306ce" />
 
 
 An end-to-end Machine Learning web application and regression pipeline designed to predict median district housing values across California based on demographic, structural, and geographical indicators.
@@ -31,5 +31,3 @@ A baseline **Multiple Linear Regression** model was evaluated against an ensembl
 
 ---
 
-## 🏗 Architecture & Machine Learning Pipelines
-sent by praveen anna
