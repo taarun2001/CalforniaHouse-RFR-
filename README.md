@@ -1,6 +1,10 @@
 # CalforniaHouse-RFR-
 # 🏡 California Housing Value Predictor
 
+<img width="985" height="600" alt="WhatsApp Image 2026-09-24 at 5 07 21 PM (1)" src="https://github.com/user-attachments/assets/88e9aec9-2847-4b72-b2a7-1e1a41c939bf" />
+<img width="969" height="532" alt="WhatsApp Image 2026-09-24 at 5 08 02 PM (1)" src="https://github.com/user-attachments/assets/67dccd1f-69f6-404f-a803-5d37393306ce" />
+
+
 An end-to-end Machine Learning web application and regression pipeline designed to predict median district housing values across California based on demographic, structural, and geographical indicators.
 
 ---
